@@ -18,5 +18,8 @@ Summarize our exploration of interesting problems and simpler variants that we c
   - simple harmonic motion (_when_?)
     - **guess:** between $\pm 90^{\circ}$?
   - we expect that simple harmonic motion breaks down for large starting displacements of the pendulum
-- 
+- Driven pendulum
+  - [Video of driven rigid pendulum]()
+  - seems dependent on driving frequency
+    
 
