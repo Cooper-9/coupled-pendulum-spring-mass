@@ -4,4 +4,6 @@ This repository is a collection of notes on mechanical motion of a rigit, or sof
 ## 📁 File structure
 - Notes : a collection of markdown notes
 - Figures : figures used in the notes
-  
+
+## 🔗 Quick Links
+[Ideas on the pendulum](/notes/00-ideas-and-exploration.md)
