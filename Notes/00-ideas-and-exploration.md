@@ -21,5 +21,11 @@ Summarize our exploration of interesting problems and simpler variants that we c
 - Driven pendulum
   - [Video of driven rigid pendulum]()
   - seems dependent on driving frequency
-    
 
+## Questions for the Assignment
+- How do you expect the rigid pendulum will respond if the frequency of the drive is much higher or much lower than the natural frequency ( $\omega = \sqrt(g/L)$ of the pendulum (for small oscillations) and the amplitude is small compared to the size of the pendulum?
+  - I would expect the pendulum to experience motion similar to that of the inverted driven pendulum example. (Where it had the tendency to return to a neutral position.) When driven much lower than the natural frequency, I guess that the motion would appear almost random and 'awkward' compared to that of the regular frequency.
+- If the pendulum is slightly displaced from equilibrium and the pivot point moves down abruptly, what will happen to the pendulum's displacement angle?
+    - If this happened I would expext the 'arm' of the pendulum to go up compared to the moment before, making the angle increase momentarily.
+- If we start the pendulum oriented above its pivot point, at its unstable equilibrium angle, if the pivot point moves down as the pendulum begins to fall, what is your expectation of the behavior?
+  - As I said in the previous example, driving the pivot down should momentarily increase the angle of the pendulum. So in this case I believe it would return to near unstable equilibrium where it began. 
